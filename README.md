@@ -8,6 +8,9 @@ Neuron AIO Quicktask Documents
 
 ## Basic schema: https://localhost:4340/quicktask?module={module}&site={site}&items={link/kws}
 
+module = module inside neuron, ie "shopify"
+site - task site, ie "kith.com"
+
 
 Supported Sites:
 
