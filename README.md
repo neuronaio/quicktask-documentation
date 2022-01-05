@@ -9,3 +9,12 @@ Neuron AIO Quicktask Documents
 ## Basic schema: https://localhost:4340/quicktask?module={module}&site={site}&items={link/kws}
 
 
+Supported Sites:
+
+Shopify 
+Kith EU
+Supreme
+YeezySupply
+Offspring
+Office
+Currys
