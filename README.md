@@ -8,13 +8,13 @@ Neuron AIO Quicktask Documents
 
 ## Basic schema: https://localhost:2030/quicktask?module={module}&site={site}&items={link/kws}
 
-module = Neuron module ** ie [shopify, kitheu, supreme, offspring, currys, office, yeezysupply, #####, #####] **
+module = Neuron module  ie [shopify, kitheu, supreme, offspring, currys, office, yeezysupply, #####, #####] 
 
 
-site = task site ** ie [kith.com, eu.kith.com, currys.co.uk, undefeated.com, etc] **
+site = task site  ie [kith.com, eu.kith.com, currys.co.uk, undefeated.com, etc] 
 
 
-items = task items ** ie [https://kith.com/collections/mens-footwear/products/nkdc9402-001, air,max,90] **
+items = task items  ie [https://kith.com/collections/mens-footwear/products/nkdc9402-001, air,max,90] 
 
 
 profile, task number etc can be set inside the neuron aio app
